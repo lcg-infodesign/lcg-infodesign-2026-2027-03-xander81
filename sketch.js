@@ -42,7 +42,7 @@ function colorFor(team) {
 }
 
 function draw() {
-  background("#1f1f2b");
+  background("#100000");
 
   // se i dati non sono ancora pronti, non disegno nulla
   if (drivers.length === 0) return;
